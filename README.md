@@ -6,9 +6,13 @@
   
    ### Analysis of  Theater Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch.png](https://github.com/AWTENN/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
+    For this Analysis,I created a new column called Years to find the Years that the Kickstarter campaigns were started. I then filtered the Category column in the spreadsheet to only have the  I used a pivottable to compare months to Outcomes and filtered by the Theater Parent Category. I then used a line chart show how the number of outcomes for the Theater Parent Category happened over time. 
           
    ### Analysis of Outcomes Based on Goals
  ![Plays Outcomes_vs_Goals Final.png](https://github.com/AWTENN/kickstarter-analysis/blob/main/Plays%20Outcomes_vs_Goals%20Final.png)
+ 
+    For this analysis, I created a table of data comparing Goals ranging from less than a 1000 to greater than 50000 in Intervals of 5000. I then used the Countifs function to pull the goals data in the interval that was indicated in the row for each Outcome for the Subcategory "plays". After collecting that data, I added all of the outcomes for each Goal interval to get totals for each Interval. Then, I divided the plays based on each outcome by the total plays for each goal interval. After getting the percentages for each outcome for plays, I created a pivottable and compared the goal interval by the percentage of successful and failed plays. Finally, I created the chart seen here using the pivottable described previously.
           
    ### Challenges and Difficulties Encountered
 - I only had one difficulty encountered which was self-inflicted, after creating the Countifs functions for the Goals, I had not specified the criteria for "plays". I fixed that by going back entering in the "plays" criteria for the worksheet. There could many other difficulties with the Countifs function, like not knowing the syntax for greater than and less than between two numbers. 
