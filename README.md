@@ -1,6 +1,6 @@
 # kickstarter-analysis
   ## Overview
-- *This project is looking at how other Theatre and Play Kickstarters did based on their launch date and their goal amount.
+-*This project is looking at how other Theatre and Play Kickstarters did based on their launch date and their goal amount.
 
   ## Analysis and Challenges
   
