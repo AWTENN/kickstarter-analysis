@@ -19,9 +19,9 @@
  
 - I can conclude from the Outcomes Based on Goals chart that KickStarter Campaigns for plays with a goal of less than 5000 are more likely to be successful than all other campaign goals.
 
+- The limitiations of this dataset could be that there were no descriptors of who was creating the KickStarter. Like say if Christopher Walken wanted it for "Walken on Sunshine" it could not get money because he is a famous actor who should be able to fund the play itself. That also is a limitation with the Spotlight column. What kind of Spotlight does it mean? Did the campaign go viral on twitter, did an actor happen to see the campaign and donated handsomely, what qualifies as spotlight? I feel there could be many more conclusions drawn from Author of a Kickstarter , and how Spotlight was gained on a  Kickstarter.
 
-
-- A chart that I would very much like to see is a chart of Plays Outcomes based on Goals with a filter of Spotlight.
+- A chart that I would very much like to see is a chart of Plays Outcomes based on Goals with a filter of Spotlight. I believe that Spotlight is how many people had seen the campaign, and from a cursory glance it looked like many of the successful KickStarters had a Spotlight of "Yes".
 
       
       
