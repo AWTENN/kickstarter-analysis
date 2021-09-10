@@ -5,7 +5,7 @@
   ## Analysis and Challenges
   
       ### Analysis of  Theater Outcomes Based on Launch Date
- /assets/images/Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch.png](https://github.com/AWTENN/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
           
       ### Analysis of Outcomes Based on Goals
  ![Plays Outcomes_vs_Goals Final.png](https://github.com/AWTENN/kickstarter-analysis/blob/main/Plays%20Outcomes_vs_Goals%20Final.png)
